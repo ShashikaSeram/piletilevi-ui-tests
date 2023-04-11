@@ -45,3 +45,7 @@ After tests are executed, report can be found in "reports/html/index.html"
 #### Run with cypress UI
 
 npx cypress open
+
+
+#### Sample report :
+![Screenshot 2023-04-11 at 20 47 55](https://user-images.githubusercontent.com/116787791/231247435-115d520a-b51b-4350-ad4f-02a5df99b05e.png)
